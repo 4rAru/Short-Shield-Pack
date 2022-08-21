@@ -5,7 +5,7 @@
 
 ## インストール方法
 
-**[Releases](https://github.com/4aAru/short-shield-pack/releases)** へに移動し、**ShortShieldPack.zip** をクリックするとインストールできます
+**[Releases](https://github.com/4aAru/short-shield-pack/releases)** へ移動し、**ShortShieldPack.zip** をクリックするとインストールできます
 
 
 ## 確認済みバージョン
