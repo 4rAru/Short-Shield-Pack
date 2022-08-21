@@ -5,7 +5,7 @@
 
 ## インストール方法
 
-**[Releases](https://github.com/4aAru/short-shield-pack/releases)** へに移動し、**ShortShieldPack.zip** を押すとインストールできます
+**[Releases](https://github.com/4aAru/short-shield-pack/releases)** へに移動し、**ShortShieldPack.zip** をクリックするとインストールできます
 
 
 ## 確認済みバージョン
@@ -25,7 +25,8 @@ I don't know when it became impossible to make shields transparent, but when pla
 This texture pack is available for ver 1.9 or later.
 
 ## How to Install
-Go to **[Releases](https://github.com/4aAru/short-shield-pack/releases)** and press **ShortShieldPack.zip** to install
+
+Go to **[Releases](https://github.com/4aAru/short-shield-pack/releases)** and click on **ShortShieldPack.zip** to install
 
 ## Confirmed version.
 
