@@ -20,7 +20,7 @@ ver1.9だと動かない可能性はありますが、1.9でマイクラする�
 
 -----
 
-# short shield pack
+# Short Shield Pack
 
 I don't know when it became impossible to make shields transparent, but when playing minecraft, shields occupy my field of view and get in the way, so I made this.
 This texture pack is available for ver 1.9 or later.
