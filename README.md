@@ -2,6 +2,9 @@
 
 いつから盾を透明にできなくなったのかはわかりませんが、マインクラフトをプレイしてるとき盾が視界を占領していて邪魔なので作りました。 このテクスチャパックはver1.9以降で使用できます。
 
+![あｄｓ](https://user-images.githubusercontent.com/111694293/188747584-6869981b-9b05-4f79-b7b1-08dfb9a37081.png)
+
+
 
 ## インストール方法
 
@@ -24,6 +27,10 @@ ver1.9だと動かない可能性はありますが、1.9でマイクラする�
 
 I don't know when it became impossible to make shields transparent, but when playing minecraft, shields occupy my field of view and get in the way, so I made this.
 This texture pack is available for ver 1.9 or later.
+
+![あｄｓ](https://user-images.githubusercontent.com/111694293/188747603-54962f91-55e7-45c2-9997-a2cef1d21603.png)
+
+
 
 ## How to Install
 
