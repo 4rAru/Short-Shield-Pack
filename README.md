@@ -1,3 +1,5 @@
+日本語/[English](https://github.com/4rAru/Short-Shield-Pack/blob/main/README-en.md)
+
 # ショートシールドパック
 
 いつから盾を透明にできなくなったのかはわかりませんが、マインクラフトをプレイしてるとき盾が視界を占領していて邪魔なので作りました。 このテクスチャパックはver1.9以降で使用できます。
