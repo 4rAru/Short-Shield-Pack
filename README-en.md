@@ -1,3 +1,5 @@
+[日本語](https://github.com/4rAru/Short-Shield-Pack/blob/main/README.md)/English
+
 # Short Shield Pack
 
 I don't know when it became impossible to make shields transparent, but when playing minecraft, shields occupy my field of view and get in the way, so I made this.
